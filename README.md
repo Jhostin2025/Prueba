@@ -1,35 +1,11 @@
 **Proyecto de Analisis y Diseñ de Recursos Educativos**
 
-El siguiente proyecto busca reforzar el aprendizaje de la lectura y comprension de textos, mediante actividades didácticas e interactivas que evaluan los cocnocimeintos de los estudiantes sobre Las Falacias
+El siguiente proyecto busca reforzar el aprendizaje de la lectura y comprension de textos, mediante actividades didácticas e interactivas que evaluan los cocnocimeintos de los estudiantes sobre Las Falacias, describiendo el concepto de una Falacia e identificar los tipos de falacias y un cuento que refuerza asi la comprension lectora de los estudiantes
 
-Currículo Nacional
+**Problema:** Los estudiantes presentan dificultades para comprender los textos, se limitan a leerlos sin lograr una adecuada comprensión de su contenido.
 
-Nivel Educativo
+**Necesidades a ser solucionadas:** Lograr que los estudiantes desarrollen la capacidad de comprender los textos que leen, reflexionando y analizando los contenidos abordados.
 
-➢ Inicial (3 a 5 años)
+**Objetivos de aprendizaje:** OG.LL.5. Leer de manera autónoma y aplicar estrategias cognitivas y metacognitivas de comprensión, según el propósito de lectura.
 
-➢ Educación General Básica (6 a 14 años)
-
-➢ Bachillerato General (15 a 18 años)
-
-○ Primero Bachillerato
-
-■ Asignaturas
-
-● Lengua Y literatura
-
-○ Sección 1
-
-○ Sección 2
-
-○ Sección 3
-
-■ Tema 1: Lectura y comprensión de textos
-
-○ Sección 4
-
-○ Sección 5
-
-● Matemáticas
-
-● Biología
+**Resultados esperados:** Comprenden y aplican estrategias cognitivas y metacognitivas según el propósito de lectura
