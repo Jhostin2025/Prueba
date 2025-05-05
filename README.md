@@ -8,4 +8,4 @@ El siguiente proyecto busca reforzar el aprendizaje de la lectura y comprension 
 
 **Objetivos de aprendizaje:** OG.LL.5. Leer de manera autónoma y aplicar estrategias cognitivas y metacognitivas de comprensión, según el propósito de lectura.
 
-**Resultados esperados:** Comprenden y aplican estrategias cognitivas y metacognitivas según el propósito de lectura
+**Resultados esperados:** Comprenden las estrategias cognitivas y metacognitivas según el propósito de lectura
