@@ -1,2 +1,2 @@
-# Prueba
-Proyecto de prueba para la asignatura de Análisis y Diseño de Recursos Educativos 
+**Proyecto de Analisis y Diseñ de Recursos Educativos**
+Explicaion de que se trata el proyecto (editable)
